@@ -1,0 +1,10 @@
+{
+  "name": "tiny-nodejs-http",
+  "version": "1.0.0",
+  "description": "A one-line HTTP server for NodeJS.",
+  "main": "server.js",
+  "repository": "https://github.com/cmrxnn/tiny-nodejs-http",
+  "author": "cmrxnn <cmrxn2005@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
